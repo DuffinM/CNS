@@ -6,7 +6,7 @@
 ### Here is a photo step #6 in Section 10.2 
 ### ![Screenshot 1](Part2_6.png)
 ### Here is a photo step #12 in Section 10.2 
-### ![Screenshot 1](Part2_9.png)
+### ![Screenshot 1](Part2_12.png)
 ### Here is a photo step #4 in Section 10.4 
 ### ![Screenshot 1](Part2_4.png)
 ### Here is a photo step #9 in Section 10.4 
