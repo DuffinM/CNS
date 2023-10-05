@@ -13,10 +13,10 @@
 ### ![Screenshot 1](Part2__9.png)
 
 
-## **Section 3: Applying Key Based Authentication** ## 
+## **Section 3: Applying Key Based Authentication**
 ### Here is a screenshot generating the SSH Keys  
 ### ![Screenshot 1](Part3_1.png)
-### Here is a screenshot sharing the public key tothe Cybernet jump box.  
+### Here is a screenshot sharing the public key to the Cybernet jump box.  
 ### ![Screenshot 1](Part3_2.png)
 ### Here is a screenshot login using the key based authentication. 
 ### ![Screenshot 1](Part3_3.png)
